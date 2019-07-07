@@ -1,0 +1,21 @@
+*{margin: 0; padding: 0; font-size: 100%; border: none; outline: none; font-weight: 300; box-sizing: border-box;font-family: 'Roboto Condensed', sans-serif; }
+body{background: url(../img/bg.jpg);}
+img{max-width: 100%}
+.quantocusta{width: 100%;padding: 10%}
+.quantocusta h1{color: #F0FFFF; font-size: 40pt; text-align: center; text-shadow: 2px 2px 3px #000;}
+.relogio{color:#F0FFFF; text-align: center; text-shadow: 2px 2px 3px #000; font-size: 20pt;}
+.valor{color: #F0FFFF; text-align: center; padding: 5%,text-shadow: 2px 2px 3px #000;  font-size: 40pt;}
+.atualizar{
+	display: block;
+    margin-top: 15px;
+    width: 115px;
+    height: 35px;
+    background: #4E9CAF;
+    padding: 10px;	
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    box-shadow: 2px 2px 3px #000;
+}
+.aviso{ color:#F0FFFF; text-align: center; text-shadow: 2px 2px 3px #000; font-size: 10pt; padding: 10px; }
